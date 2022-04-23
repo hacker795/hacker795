@@ -7,7 +7,7 @@
 - 💬 Ask me about any cybersecurity concepts or tech concepts
 - 📫 How to reach me: Instagram -> hacker_stran
 
-[Instragram @hacker_stran](https://www.instagram.com/hacker_stran/)
+[Instagram @hacker_stran](https://www.instagram.com/hacker_stran/),
 
 [Youtube Channel](https://www.youtube.com/channel/UCDBXbdt_LH70ne1tV8ekAmQ)
 
