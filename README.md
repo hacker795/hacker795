@@ -13,4 +13,6 @@
 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I spend my 10hrs for acedemics :)
--->
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=hacker795&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=800080">
