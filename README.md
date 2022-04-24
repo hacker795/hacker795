@@ -52,10 +52,6 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ❤ 𝐋𝐎𝐕𝐄𝐑:- ★  🎀  𝒶𝓎𝓎❁(人◕‿◕)  🎀  ★
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
 - 👉 𝐼𝒩𝒮𝒫𝐼𝑅𝒜𝒯𝐼𝒪𝒩 :- 𝓚𝓮𝓿𝓲𝓷 𝓜𝓲𝓽𝓷𝓲𝓬𝓴
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
