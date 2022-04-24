@@ -85,7 +85,7 @@
 [![Instagram](https://img.shields.io/badge/IG-%40TwinkleSharma-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/hacker_stran/)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100028241565922)
 [![𝓛𝓲𝓷𝓴𝓮𝓭 𝓘𝓷](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://www.linkedin.com/in/twinkle-sharma-94a818233)
-[![Github](https://img.shields.io/badge/Github-MAHADI-143green?style=for-the-badge&logo=github)](https://github.com/hacker795)
+[![Github](https://img.shields.io/badge/Github-Twinklegreen?style=for-the-badge&logo=github)](https://github.com/hacker795)
 
 ### ⚙️ &nbsp; Language & programming
 
