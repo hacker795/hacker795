@@ -6,10 +6,9 @@
 - 🤔 looking for help with competitive coding 
 - 💬 Ask me about any cybersecurity concepts or tech concepts
 - 📫 How to reach me: Instagram -> hacker_stran
-
-[Youtube](https://www.youtube.com/channel/UCDBXbdt_LH70ne1tV8ekAmQ)
-
 - 😄 Pronouns: he/his
+- [Youtube](https://www.youtube.com/channel/UCDBXbdt_LH70ne1tV8ekAmQ)
+
 
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN India-Ethical Hacker AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
