@@ -60,7 +60,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🤲🏻 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- (っ◔◡◔)っ ♥ Hinduism ♥
+- 😊 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- (っ◔◡◔)っ ♥ Hinduism ♥
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
