@@ -41,11 +41,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😎 𝐀𝐆𝐄:- 𝟙𝟡
+- 😎 𝐀𝐆𝐄:- 20
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:-🅱.🆃🅴🅲🅷 2𝐍𝐃 𝐘𝐄𝐀𝐑
+- 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:-🅱.🆃🅴🅲🅷 3rd Year
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
