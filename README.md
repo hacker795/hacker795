@@ -1,4 +1,6 @@
-<h1> Hi I am Twinkle Sharma👋 <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47y1t703yy7exzfc4husksux377g5sprqn25f4r7yu&rid=giphy.gif&ct=g" width="70"></h1>
+### Hi there 👋
+
+<h2>I am Twinkle Sharma👋 <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47y1t703yy7exzfc4husksux377g5sprqn25f4r7yu&rid=giphy.gif&ct=g" width="70"></h2>
 
 - 🔭 I’m doing btech from CMRCET.
 - 🌱 currently learning bash
