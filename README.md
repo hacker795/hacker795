@@ -1,6 +1,4 @@
-### Hi I am Twinkle Sharma👋
-
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+<h1> Hi I am Twinkle Sharma👋 <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47y1t703yy7exzfc4husksux377g5sprqn25f4r7yu&rid=giphy.gif&ct=g" width="70"></h1>
 
 - 🔭 I’m doing btech from CMRCET.
 - 🌱 currently learning bash
