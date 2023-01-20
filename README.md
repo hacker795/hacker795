@@ -104,7 +104,7 @@
 
 
 
-⭐️ From [@hacker795](https://github.com/hacker795)
+⭐️ From [@	nepalese-noob](https://github.com/hacker795)
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
