@@ -12,6 +12,7 @@
 - 📫 How to reach me: Instagram -> hacker_stran
 - 😄 Pronouns: he/his
 - 😊 ℙ𝕠𝕣𝕥𝔽𝕠𝕝𝕚𝕠 Website : https://hacker795.github.io/
+- 😊 [My Udemy Course](https://www.udemy.com/course/ethically-hack-the-planet-part-1)
 - [Youtube](https://www.youtube.com/channel/UCDBXbdt_LH70ne1tV8ekAmQ)
 
 
