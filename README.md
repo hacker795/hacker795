@@ -51,10 +51,6 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:-🅱.🆃🅴🅲🅷 
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
 - 👉 𝐼𝒩𝒮𝒫𝐼𝑅𝒜𝒯𝐼𝒪𝒩 :- 𝓚𝓮𝓿𝓲𝓷 𝓜𝓲𝓽𝓷𝓲𝓬𝓴
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
