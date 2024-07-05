@@ -13,8 +13,6 @@
 - 😄 Pronouns: he/his
 - 😊 ℙ𝕠𝕣𝕥𝔽𝕠𝕝𝕚𝕠 Website : https://hacker795.github.io/
 - 😊 [My Udemy Course](https://www.udemy.com/course/ethically-hack-the-planet-part-1)
-- [Youtube](https://www.youtube.com/channel/UCDBXbdt_LH70ne1tV8ekAmQ)
-
 
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN India-Ethical Hacker AND Developer-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
@@ -44,10 +42,6 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - 😏 𝐍𝐀𝐌𝐄:-₮₩ł₦₭ⱠɆ ₴Ⱨ₳Ɽ₥₳
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- 😎 𝐀𝐆𝐄:- 22
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
