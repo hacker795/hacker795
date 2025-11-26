@@ -117,6 +117,9 @@
 
 ---
 
-<h2><img width="25" src="https://raw.githubusercontent.com/DalpatRathore/dalpatrathore/main/assets/icons/icon-stats.png"> GitHub Stats :</h2>
+<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png"> <i> GitHub Stats :</i></h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hacker795&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=800080">
+<p align="center">
+  <img src="https://github-readme-stats-git-master-hacker795-projects.vercel.app/api?username=hacker795&show_icons=true&theme=radical&hide_border=true">
+</p>
+
