@@ -117,9 +117,11 @@
 
 ---
 
-<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png"> <i> GitHub Stats :</i></h2>
-
 <p align="center">
-  <img src="https://github-readme-stats-git-master-hacker795-projects.vercel.app/api?username=hacker795&show_icons=true&theme=radical&hide_border=true">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=hacker795&show_icons=true&theme=tokyonight&hide_border=true"
+       alt="GitHub Stats"
+  />
 </p>
+
 
