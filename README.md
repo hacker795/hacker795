@@ -116,10 +116,7 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?username=hacker795&theme=dark" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=hacker795&color=ff69b4&style=flat-square)
 
 
 
